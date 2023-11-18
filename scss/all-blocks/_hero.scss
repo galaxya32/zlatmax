@@ -1,0 +1,30 @@
+.container{
+    width: 1380px;
+    margin: 0 auto;
+}
+
+
+.hero__end ol{
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+    
+}
+
+.hero__end ol li a{
+    color: #fff;
+    font-size: 18px;    
+}
+
+.hero{
+    height: 70px;
+    background-color: #141414;
+    padding-left: 130px;
+    padding-top: 23px;
+}
+
+.hero__a{
+    color: #E8AA31;
+    
+}
+

@@ -1,0 +1,99 @@
+// html{
+//     overflow-x: hidden;
+// }
+
+.header{
+    height: 70px;
+    background-color: #141414;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.header{
+    ol{
+        display: flex;
+        gap: 60px;
+        margin-left: 80px;
+        align-items: center;
+    }
+}
+
+.anchor{
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.header-right{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    padding-left: 520px;
+}
+
+.header-right img{
+    width: 21px;
+    height: 27px;
+}
+
+.header-right{
+    p{
+        color: #fff;
+        font-size: 18px;
+        
+    }
+}
+
+.right-img{
+    width: 40px;
+    height: 20px;
+    color: #000000;
+}
+
+.mackva{
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+
+.right{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 170px 25px 0px;
+     
+    // margin-left: 60px;
+}
+
+.left{
+    padding: 25px 170px 25px 170px; 
+    display: flex; 
+    gap: 128px;   
+}
+
+.left img{
+    width: 190px;
+    height: 42px;
+}
+
+.left input{
+    width: 350px;
+    height: 41px;
+    background-color: #f9f6f6;
+    border-radius: 7px;
+    border-color: #767070;
+    padding-left: 50px;
+}
+    
+
+
+.right-hero{
+    display: flex;
+    // margin-left: 400px;
+    
+    justify-content: space-between;
+    
+    
+} 
+

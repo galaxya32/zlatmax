@@ -1,0 +1,74 @@
+.logo__hero{
+    width: 447px;
+    height: 400px;
+    position: absolute;
+    margin-left: 100px;
+}
+.services{
+    background-color: #272626;
+    height: 608px;
+}
+
+.mask h2{
+        font-size: 36px;
+        color: #fff;
+}
+.mask__left{
+    margin-left: 50px;
+}
+
+.mask{
+    display: flex;
+}
+
+.mask h3{
+    font-size: 30px;
+    line-height: 46px;
+    color: #fff;
+}
+
+.mask p{
+    width: 715px;
+    height: 90px;
+    letter-spacing: 3%;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+}
+
+.mask__right{
+    position: relative;
+}
+
+.logo__end{
+    position: absolute;
+    margin-top: 38px;
+    width: 400px;   
+    height: 373px;
+    margin-left: 300px;
+}
+
+.mask__ol{
+    position: absolute;
+    padding-top: 500px;
+    display: flex;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.mask__li{
+   margin-left: 120px;
+   align-items: center;
+}
+
+        
+
+.mask__ol img{
+    color: #fff;
+}
+
+.mask__ol p{
+    font-size: 20px;
+    color: #fff;
+    line-height: 32px;
+}
