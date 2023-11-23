@@ -1,0 +1,114 @@
+.katalog__hero{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    width: 290px;
+    height: 420px;
+    background-color: #fff;
+}
+
+.variables{
+    margin-bottom: 110px;
+}
+
+.katalog{
+    margin-left: 55px;
+    margin-bottom: 100px;
+}
+
+.katalog__ph{
+   padding-left: 85px;
+}
+
+.katalog__br{
+    position: absolute;
+    margin-top: -500px;
+    display: flex;
+    
+}
+
+.katalog__br a{
+    margin-left: 1000px;
+    color: #5c5b5b;
+}
+
+.katalog__br a img{
+    position: absolute;
+   margin-top: 3px;
+   margin-left: 10px;
+}
+
+.katalog__br h3{
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.katalog__13{
+    margin-left: 670px;
+}
+
+.katalog__img{
+    width: 179px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+
+.katalog__list{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+   
+}
+
+.katalog__h4{
+    font-size: 18px;
+    color: #141414;
+    line-height: 34px;
+    margin-left: 20px;
+}
+
+.paragraph{
+    margin-left: 20px;
+    display: flex;
+    font-size: 14px;
+    gap: 115px;
+    color: #626060;
+   line-height: 34px;
+}
+
+.katalog__png{
+    margin-left: 17px;
+    display: flex;
+    font-size: 14px;
+    gap: 11px;
+    color: #626060;
+    line-height: 27px;
+}
+
+.katalog__png img{
+    width: 15px;
+    height: 15px;
+    margin-top: 7px;
+}
+
+.katalog__png p{
+    margin-left: 60px;
+}
+
+.katalog__hr{
+    height: 2px;
+    background-color: #5c5b5b;
+    width: 215px;
+    margin-left: 20px;
+    margin-top: 15px;
+    
+}
+
+
+
+.katalog__svg{
+    display: flex;
+    margin-left: 20px;
+    gap: 143px;
+    padding-top: 20px;
+    line-height: 34px;
+}

@@ -1,0 +1,103 @@
+.zlatmax{
+    background-color: red($color: #000000) ;
+    padding-bottom: 120px;
+}
+
+.holor-dd{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.holor-dd{
+    position: relative;
+    width: 390px;
+    height: 253px;
+}
+
+.holor-d{
+   display: flex;
+   align-items: center;
+    flex-wrap: wrap;
+   margin-left: 55px;
+   gap: 30px;
+   margin-top: 100px;
+}
+
+.holor-img{
+    position: absolute;
+    width: 283px;
+    height: 236px;
+    margin-left: 150px;
+    margin-top: -210px;
+}
+
+.holor__imgs{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-top: -174px;
+    margin-left: 190px;
+}
+
+.holor-img-1{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-top: -174px;
+    margin-left: 180px;
+}
+
+.holor-img-2{
+    position: absolute;
+    width: 250px;
+    height: 190px;
+    margin-top: -163px;
+    margin-left: 140px;
+}
+
+.holor-img-4{
+    position: absolute;
+    width: 267px;
+    height: 200px;
+    margin-top: -174px;
+    margin-left: 140px;
+}
+
+.holor-dd{
+    h4{
+        font-size: 24px;
+        line-height: 34px;
+        color: #000000;
+        letter-spacing: 0%;
+        margin-left: 30px;
+        margin-top: 30px;
+        
+    }
+}
+
+.holor-hr{
+    height: 2px;
+    background-color: #E8AA31;
+    width: 68px;
+    margin-left: 30px;
+    margin-top: 15px;
+    
+}
+
+.holor-rr{
+    margin-left: 50px;
+    margin-top: 44px;
+    list-style-type: none;
+    .holor__item{
+        font-size: 18px;
+        line-height: 34px;
+    }
+}
+
+.holor__item::before{
+    content: "\2022";
+    color: #E8AA31;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
